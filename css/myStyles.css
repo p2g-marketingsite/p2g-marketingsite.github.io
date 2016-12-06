@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,400");
+.logo-img {
+  max-width: 118px;
+  margin: 6px; }
+
+.navbar-right {
+  padding-top: 16px; }
+
+#home .container {
+  padding-top: 66px; }
+#home .jumbo-copy {
+  text-align: right;
+  padding-top: 100px; }
+  #home .jumbo-copy * {
+    font-family: 'Roboto', sans-serif; }
+  #home .jumbo-copy h1 {
+    font-weight: 100;
+    font-size: 42px;
+    padding-bottom: 20px; }
+  #home .jumbo-copy p {
+    color: white;
+    font-weight: 100;
+    font-size: 22px; }
+#home .screenshot {
+  max-width: 240px;
+  display: block;
+  margin-right: auto; }
+
+/*# sourceMappingURL=myStyles.css.map */
